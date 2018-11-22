@@ -1,4 +1,6 @@
-**To wait or not to wait, that is the question HamletMTA seeks to answer.** 
+# HamletMTA
+
+*To wait or not to wait, that is the question...*
 
 ## Project Aims
 
