@@ -28,7 +28,7 @@ Ultimately, we would like to describe a methodology where late busses are recogn
 
 This diagram offers a brief overview of our analysis; the diagram is explained in more detail below.
 
-![diagram](analysis_diagram.png)
+![diagram](images/analysis_diagram.png)
 
 ### Monte Carlo Simulation
 
